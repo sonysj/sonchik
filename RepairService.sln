@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepairService", "RepairService\RepairService.csproj", "{FF99404A-39BB-4D20-9736-AB3E6CB2AFF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepairService.UnitTests", "RepairService.UnitTests\RepairService.UnitTests.csproj", "{1B6D08F4-CA39-4229-8BA1-EAC2042F1766}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FF99404A-39BB-4D20-9736-AB3E6CB2AFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF99404A-39BB-4D20-9736-AB3E6CB2AFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF99404A-39BB-4D20-9736-AB3E6CB2AFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6D08F4-CA39-4229-8BA1-EAC2042F1766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6D08F4-CA39-4229-8BA1-EAC2042F1766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6D08F4-CA39-4229-8BA1-EAC2042F1766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6D08F4-CA39-4229-8BA1-EAC2042F1766}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
